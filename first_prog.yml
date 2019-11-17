@@ -4,5 +4,5 @@
 #variables
 #tasks
  -tasks:
-   name: Check the connectivity
+   name: Check the connectivity added
    ping:
