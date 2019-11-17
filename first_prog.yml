@@ -3,5 +3,6 @@
 -hosts: cloudserv
 #variables
 #tasks
- name: Check the connectivity
- ping:
+ -tasks:
+   name: Check the connectivity
+   ping:
